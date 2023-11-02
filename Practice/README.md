@@ -2,7 +2,7 @@
 
 ## Objectives
 
-In this project, you will implement a webpage from a designer file, starting with the HTML structure. There will be no CSS or styling in this initial phase, focusing solely on creating a well-structured HTML document.
+In this project, i will implement a webpage from a designer file, starting with the HTML structure. There will be no CSS or styling in this initial phase, focusing solely on creating a well-structured HTML document.
 
 You will be working with a designer file available on Figma. To access the final design details, you can use the following link: [Page in Figma](#). If your computer is missing fonts, you can find them here: [source-sans-pro](#) and [Spin-Cycle-OT](#). Be aware that some values are in float, so feel free to round them.
 
